@@ -1,0 +1,44 @@
+*{
+    margin:10px;
+    color:white;
+
+
+}
+caption{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 24px ;
+}
+.img{
+    width:100px;
+    
+}
+table,th,td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    padding:5px;
+    border-color: #FFF085;
+    background-color:#F16767 ;
+}
+.right{
+    text-align: left;
+   
+}
+.w{
+    width: 10%;
+}
+table{
+    width:100%;
+}
+th{
+    width:25%;
+    text-align: center;
+    
+}
+tr{
+    height:100px;
+    text-align: center;
+}
